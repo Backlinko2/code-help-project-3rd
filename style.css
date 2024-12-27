@@ -12,6 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background: linear-gradient(90deg, rgba(125, 49, 173, 1) 0%, rgba(156, 0, 212, 1) 51%, rgba(77, 9, 101, 1) 100%);
 }
 
 .container {
@@ -92,3 +93,12 @@ input[type="checkbox"] {
         width: 90%;
     }
 }
+
+
+
+
+
+
+
+
+
